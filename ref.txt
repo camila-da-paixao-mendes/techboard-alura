@@ -1,0 +1,6 @@
+nomes de branch padroes
+modificacoes e novas funcionalides -> feat ou feature/descricao-da-modificacao
+
+correcao de problema -> fix ou bugfix/descricao-do-problema
+
+modificacao urgente na main -> hotfix/ descricao-do-problema
