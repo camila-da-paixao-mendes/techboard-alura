@@ -4,3 +4,16 @@ modificacoes e novas funcionalides -> feat ou feature/descricao-da-modificacao
 correcao de problema -> fix ou bugfix/descricao-do-problema
 
 modificacao urgente na main -> hotfix/ descricao-do-problema
+
+
+No uso profissional do GitHub, é comum adotar um fluxo de trabalho que protege a integridade do código da main. Para isso, utilizamos branches para implementar modificações, e pull requests para revisar e inserir essas mudanças de forma controlada.
+
+O processo geral segue os seguintes passos:
+
+Criar uma nova branch a partir da main.
+Implementar a modificação localmente.
+Adicionar e versionar os arquivos (git add e git commit).
+Enviar a branch para o repositório remoto (git push).
+Abrir um pull request no GitHub.
+Após a aprovação do time, a branch é mesclada na main.
+Voltar para a main e atualizar seu repositório local (git pull).
